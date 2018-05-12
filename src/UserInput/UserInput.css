@@ -1,0 +1,14 @@
+.UserInput {
+    width: 10%;
+    border: 1px solid #eee;
+    box-shadow: 0 2px 3px #ccc;
+    padding: 12px;
+
+
+
+}
+
+.UserInput input {
+    text-align: center;
+    background-color: beige;
+}
